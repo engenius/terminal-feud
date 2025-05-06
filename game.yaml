@@ -1,0 +1,148 @@
+---
+rounds:
+
+- round: 1
+  multiplier: 1
+  question: Name an occupation in which you trust a woman more than a man
+  answers:
+  - answer: Nurse #1
+    score : 20
+  - answer: Doctor/Dentist #2
+    score : 19
+  - answer: Beautician/Hair #3
+    score : 9
+  - answer: Nanny/Day care #4
+    score : 7
+
+- round: 2
+  multiplier: 2
+  question: Name something people do when they are bored
+  answers:
+  - answer: Watch TV
+    score : 40
+  - answer: Play video games
+    score : 30
+  - answer: Read a book
+    score : 15
+  - answer: Take a nap
+    score : 15
+
+- round: 3
+  multiplier: 2
+  question: Name a house you never want to be in
+  answers:
+  - answer: Haunted House #1
+    score : 27
+  - answer: Jail/Big House #2
+    score : 11
+  - answer: Doghouse #3
+    score : 8
+  - answer: Drug House #4
+    score : 7
+  - answer: Small House #5
+    score : 7
+  - answer: Glass House #6
+    score : 6
+  - answer: Cat House #7
+    score : 5
+  - answer: Outhouse #8
+    score : 5
+
+# fast money
+- round: 4
+  questions:
+
+  - question: Name something you find in a breakfast buffet
+    answers:
+    - answer: Eggs
+      score : 25
+    - answer: Bacon
+      score : 24
+    - answer: Sausage
+      score : 19
+    - answer: Potatoes/Hash Browns
+      score : 12
+    - answer: Juice
+      score : 7
+    - answer: Coffee
+      score : 6
+    - answer: Melon
+      score : 2
+    - answer: Cereal
+      score : 2
+
+  - question: Name a professional sport where the players make a lot of money
+    answers:
+    - answer: Baseball
+      score : 27
+    - answer: Basketball
+      score : 24
+    - answer: Soccer
+      score : 7
+    - answer: Tennis
+      score : 7
+    - answer: Darts
+      score : 2
+
+  - question: Name something that might be a day old
+    answers:
+    - answer: Food
+      score : 71
+    - answer: A baby
+      score : 16
+    - answer: Animal/insect
+      score : 8
+    - answer: News
+      score : 3
+
+  - question: Name something that thrill seekers love to ride on
+    answers:
+    - answer: Rollercoaster
+      score : 77
+    - answer: Motorcycle
+      score : 8
+    - answer: Hang glider
+      score : 3
+    - answer: Zip line
+      score : 3
+
+  - question: Name something you shouldn’t be holding while you’re driving
+    answers:
+    - answer: Phone
+      score : 59
+    - answer: Food or drink
+      score : 12
+    - answer: Alcoholic beverage
+      score : 12
+    - answer: Crying baby
+      score : 11
+    - answer: Cigarette
+      score : 2
+    - answer: Murder weapon
+      score : 2
+
+  guesses:
+
+    # player 1
+    - guess: player_1_guess_1
+      score: 0
+    - guess: player_1_guess_2
+      score: 0
+    - guess: player_1_guess_3
+      score: 0
+    - guess: player_1_guess_4
+      score: 0
+    - guess: player_1_guess_5
+      score: 0
+
+  # player 2
+    - guess: player_2_guess_1
+      score: 0
+    - guess: player_2_guess_2
+      score: 0
+    - guess: player_2_guess_3
+      score: 0
+    - guess: player_2_guess_4
+      score: 0
+    - guess: player_2_guess_5
+      score: 0
